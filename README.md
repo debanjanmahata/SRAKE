@@ -1,5 +1,5 @@
 # SRAKE
-Semi-supervised Ranked Keyphrase Extractor
+Semi-supervised Ranked Automatic Keyphrase Extractor
 
 Dependencies:
 Spacy (https://spacy.io/)
